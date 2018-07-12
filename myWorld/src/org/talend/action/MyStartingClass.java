@@ -7,7 +7,6 @@ public class MyStartingClass {
 		System.out.println("2222");
 		System.out.println("3333");
 		System.out.println("9999");
-		
 	}
 
 }
