@@ -3,12 +3,8 @@ package org.talend.action;
 public class MyStartingClass {
 
 	public static void main(String[] args) {
-		System.out.println("1111");
-		System.out.println("2222");
-		System.out.println("3333");
-		System.out.println("9999");
-		System.out.println("4444");
-		System.out.println("55555");
+		System.out.println("the latest version 7.1");
+
 	}
 
 }
