@@ -6,7 +6,7 @@ public class MyStartingClass {
 		System.out.println("the latest version 7.0 for master22");
 		System.out.println("the latest version 7.0 for master11");
 		System.out.println("the latest version 7.0 for master3");
-		System.out.println("the latest version 7.0 for fixBug 1");
+		System.out.println("the latest version 7.0 for fixBug 11");
 		System.out.println("the latest version 7.0 for fixBug 2");
 		System.out.println("the latest version 7.0 for fixBug 3");
 	}
